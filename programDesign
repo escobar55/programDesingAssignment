@@ -1,0 +1,19 @@
+1. Find the average score: 
+promt the user to enter 10 exam scores 
+store each test score into variables e.g escore1, score2... 
+calculate the sum of the scores(sum score1, + score2 + score3 + ...) 
+divide the sum by 10 
+display de result to the user 
+
+
+
+2.How much water runs off the roof: 
+promt the user to enter the dimensions of the footprint of the roof 
+store the dimensions into a variable 
+convert the dimensions into inches and store the result into a variable (e.g result1)
+multiply result1 by the number of inches (1") and store the result into another variable (e.g result2)
+divide result2 by 231 to get the number of gallons 
+Now display the gallons result to the user 
+
+
+
